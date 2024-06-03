@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding:0;
+}
+
+.content{
+    /* margin: 100px 420px ; */
+    margin: 6rem 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* padding:37px 40px; */
+    padding: 0.8rem 0.4rem;
+    font-size:1.5rem;
+    border:1px solid lightgray;
+    border-radius: 36px;
+}
+
+
+
+
+.buttons{
+    margin:53px 10px;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.btn{
+    padding:10px 23px;
+    margin:2px 7px;
+    border-radius: 20px;
+    cursor: pointer; 
+    background-color: rgb(36, 37, 38);
+    color:white;
+    border: none;
+}
+
+.digit{
+    font-size: 2.2rem;
+}
